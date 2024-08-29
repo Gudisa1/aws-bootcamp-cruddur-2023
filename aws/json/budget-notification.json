@@ -1,0 +1,14 @@
+{
+  "Notification": {
+    "ComparisonOperator": "GREATER_THAN",
+    "NotificationType": "ACTUAL",
+    "Threshold": 50,
+    "ThresholdType": "PERCENTAGE"
+  },
+  "Subscribers": [
+    {
+      "Address": "gudisagebi1@gmail.com",
+      "SubscriptionType": "EMAIL"
+    }
+  ]
+}
